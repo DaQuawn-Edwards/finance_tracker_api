@@ -1,0 +1,12 @@
+name: fin_tracker
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - fastapi
+  - uvicorn
+  - sqlalchemy
+  - psycopg2
+  - pandas
+  - python-dotenv
+  - python-multipart
